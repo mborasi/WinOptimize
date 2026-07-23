@@ -1,7 +1,5 @@
-=======================================================
   WINDOWS OPTIMIZATION v1.0 (by Marcelo Borasi) - 07/26
   MANUAL DE USO / USER MANUAL  -  README / LEAME
-=======================================================
 
 Este documento esta en DOS IDIOMAS. La version en espanol esta primero,
 la version en ingles empieza mas abajo (buscar "ENGLISH VERSION").
